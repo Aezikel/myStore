@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyStore</string>
+    <string name="empty_text">Its a bit dusty in here</string>
+    <string name="product">Product Name</string>
+    <string name="description">Description</string>
+    <string name="supplier">Supplier</string>
+    <string name="contact">Contact</string>
+    <string name="email">Email</string>
+    <string name="available">Available:</string>
+    <string name="delete_all">Delete all</string>
+    <string name="product_name">Product name</string>
+    <string name="price">Price</string>
+</resources>
